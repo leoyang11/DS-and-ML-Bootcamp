@@ -105,3 +105,6 @@ varImpPlot(rf_model)
 #### prediction ####
 test$predict <- predict(rf_model, newdata = test)
 table(test$Private, test$predict)
+
+## test
+## test???
