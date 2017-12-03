@@ -5,7 +5,7 @@ library(rpart)
 library(rpart.plot)
 library(randomForest)
 
-str(kyphosis)
+str(kyphosis) 
 head(kyphosis)
 
 #### desicion tree modeling ####
